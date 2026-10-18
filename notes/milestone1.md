@@ -32,10 +32,3 @@ Some posts describe something that happened to the author. Others discuss racing
 ## What still needs a decision
 
 A question can also contain an opinion, and a frustrated post can still include evidence. Before choosing labels, I need to decide which distinction I want the classifier to learn and how I will handle posts that overlap.
-
-## Reading status
-
-- I have personally reviewed the first nine posts discussed with AI.
-- AI expanded the review to 23 posts in total using original-post text available through the search index. Direct Reddit access was limited; this was not a review of every comment or linked image.
-- My review of the additional 14 posts has not yet been recorded here. The milestone asks for 30–40 posts, so the next step is to review those additional posts and at least seven more before marking the reading complete.
-- Final labels and their boundary rules belong to Milestone 2 and have not been chosen yet.
