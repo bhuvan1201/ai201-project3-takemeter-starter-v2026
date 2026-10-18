@@ -48,40 +48,80 @@
 
 ## Label Taxonomy
 
-<!-- Each label: a one-sentence definition and two real examples from your
-     reading. Then your decision rule for the hardest boundary.
+I want to classify what the author is doing in a post. These labels describe the purpose of the post, not whether its claims are true or whether it is a good post. I tried the definitions on [eight practice posts](notes/milestone2.md) and revised two boundary decisions after discussing them with AI.
 
-     The decision rule is worth a point on its own and it's the thing most
-     people leave out. Every taxonomy has a hardest boundary. Name yours. -->
+**Scope:** Public, English-language text posts from r/formula1. Read the title and full original body together, without the comments. Link-only posts, image-only posts, automated threads, and straight news or data reports with none of the four purposes are outside this dataset. Record exclusions rather than forcing them into `opinion`. Mixed posts within this scope should be kept and resolved using the boundary rules.
 
-### `label_one`
+The examples below are linked real posts with short summaries, not quotations or substitutes for the full text in the eventual dataset. Their labels are proposed assignments for review.
 
-**Definition:**
+### `question`
 
-**Example 1:**
->
+**Definition:** Mainly asks readers for information, an explanation, advice, or their views, rather than presenting the author’s own answer.
 
-**Example 2:**
->
+**Example 1:** [Tyres](https://www.reddit.com/r/formula1/comments/s87q90)
 
-### `label_two`
+The author asks why hard tyres are used when softer tyres are faster. Their brief introduction about becoming a fan provides background for the question.
 
-**Definition:**
+**Example 2:** [Monitoring and reinforcing cost cap](https://www.reddit.com/r/formula1/comments/untlgz)
 
-**Example 1:**
->
+The author asks how spending is monitored and how possible ways around the cap are handled. The post seeks an explanation of enforcement.
 
-**Example 2:**
->
+### `proposal`
+
+**Definition:** Mainly recommends a specific action or change that the author wants someone to make.
+
+**Example 1:** [Regarding sprint races](https://www.reddit.com/r/formula1/comments/1psctbj)
+
+The author suggests putting sprint races earlier in the season, arguing that teams would have less reason to protect their cars. The scheduling change is the proposal; its reasoning does not have to be proven for this label.
+
+**Example 2:** [Tire Compound Differences?](https://www.reddit.com/r/formula1/comments/yhrj8a)
+
+The author argues that the performance differences between tyre compounds need to be greater. Although the title is a question, the body recommends a change and explains why.
+
+### `experience`
+
+**Definition:** Mainly recounts a specific event the author personally experienced as an F1 fan, including their response to that event.
+
+**Example 1:** [My experience of my first F1 race on track](https://www.reddit.com/r/formula1/comments/pe70l7)
+
+The author describes attending Spa, waiting in the rain, and dealing with travel problems. Frustration is part of the personal account.
+
+**Example 2:** [What is your first time watching a full race feel like?](https://www.reddit.com/r/formula1/comments/u0k5mz/what_is_your_first_time_watching_a_full_race_feel/)
+
+The body describes the author’s excitement while watching their first full race. The question in the title invites others to share, but the body tells their own story.
+
+### `opinion`
+
+**Definition:** Mainly presents the author’s judgment, preference, or interpretation, rather than requesting an answer, recommending a specific change, or recounting a personal event.
+
+**Example 1:** [Besides all of the crashes and spins, how do you feel about team calls and strategy today?](https://www.reddit.com/r/formula1/comments/1jcfo5w)
+
+The body evaluates several teams’ strategy decisions. The opening question invites discussion, while the author’s own judgments form the substance of the post.
+
+**Example 2:** [The whole Cost Cap Situation is BS](https://www.reddit.com/r/formula1/comments/xsrpt0/the_whole_cost_cap_situation_is_bs/)
+
+The author criticizes the cost-cap controversy and argues that enforcement cannot adequately control spending. This is an example of an expressed view, not evidence that the allegations are true.
 
 ### The hardest boundary
 
-**Which two labels:**
+**Which two labels:** `question` and `opinion`.
 
-**The decision rule I used every time:**
-<!-- e.g. "If the post names a specific checkable fact, it's `analysis`, even
-     if the tone is heated." -->
+**Real borderline post:** [Do you hate tyre chat?](https://www.reddit.com/r/formula1/comments/yim7f3)
 
+The author explains why they enjoy technical tyre discussions, then asks whether other viewers dislike them and what they prefer. It contains both a personal view and a genuine invitation for answers.
+
+**My choice:** `opinion`. I first chose `question`, but changed it after comparing it with practice post 2. It is still borderline: I read the author’s explanation of why they enjoy tyre discussions as the main point, with the closing questions inviting responses to that opinion.
+
+**Decision rule:** Read the whole post and identify what its main body does. If it develops the author’s own answer or position and the closing question mainly invites agreement or disagreement, use `opinion`. If it leaves the requested information or judgment open for readers to supply and the author’s view only provides background, use `question`. Do not decide from the title or question marks alone. If both purposes remain equally central, use `question` when there is an explicit unanswered request to readers, and record the competing label and reason in the note.
+
+**Other boundaries:**
+
+- `proposal` versus `opinion`: identifying something as bad is an opinion; recommending a specific action to change it is a proposal when that action is the main point. A passing suggestion does not override the rest of the post.
+- `experience` versus `question`: a personal story used mainly to explain a request for help is a question. A story that stands on its own and ends by inviting similar stories is an experience.
+- `experience` versus `opinion`: describing what happened to the author and how they felt is an experience. Using a brief personal example mainly to argue a wider judgment is an opinion. Saying “I think” is not a personal event.
+- If two purposes are still equally central after those checks, apply this tie-break order: an explicit unanswered request (`question`), a specific recommended change (`proposal`), a specific personal event (`experience`), then a judgment (`opinion`). Record the tie and its resolution. This order only resolves ties; it does not override a clear main purpose.
+
+The practice exercise also exposed the boundary between `experience` and `opinion`. I first labeled post 8 as `experience`, then changed it to `opinion`: waiting for water supports the judgment that the event was poor value. The main-purpose rule stayed the same. My initial choices, feedback, and final decisions are in [Milestone 2 notes](notes/milestone2.md).
 
 
 ---
