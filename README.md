@@ -39,10 +39,7 @@
 
 ## What This Does
 
-<!-- Your community, and what your classifier sorts posts into. Three or four
-     sentences. -->
-
-
+TakeMeter is a text-classification project using public posts from r/formula1. It is intended to identify whether a post mainly asks a question, shares an opinion, proposes a change or describes a personal experience. I fine-tuned DistilBERT on 172 labeled posts using the title and body as input, with the model reading up to 128 tokens per post. The first run predicted every test post as `question`, so it is not yet distinguishing all four purposes reliably.
 
 ---
 
@@ -201,26 +198,19 @@ There are only two proposals and one experience in the test set, below the sugge
 
 ## How I Used AI
 
-<!-- Two specific moments — what you asked, what came back, what you changed.
+**Moment 1 — Checking label boundaries**
 
-     ⚠️ Plus disclosure of any pre-labelling. If you had a model pre-label a
-     batch and then read and corrected every one, say that. It's an allowed
-     workflow and disclosing it costs you nothing. Not disclosing it is the
-     problem. -->
+- *What I asked for:* Help testing the differences between my labels using practice posts and borderline examples.
+- *What came back:* Eight practice posts and explanations of where questions, opinions, proposals and personal experiences can overlap.
+- *What I changed:* I changed practice post 8 from `experience` to `opinion`, and leaned toward `opinion` for the tyre-chat example. I learned to look at the main purpose of the body instead of deciding from the title or a question mark. My choices and the boundary rules are recorded in the taxonomy and Milestone 2 notes.
 
-**Moment 1**
+**Moment 2 — Getting the notebook kernel working**
 
-- *What I asked for:*
-- *What came back:*
-- *What I changed:*
+- *What I asked for:* Help after the Python 3.13 notebook kernel repeatedly timed out.
+- *What came back:* AI inspected the environment and found offloaded package files in the Documents folder. It created a fresh local environment outside that folder and tested the kernel.
+- *What I changed:* I selected `TakeMeter Local (Python 3.13)` and ran the notebook cells myself. The setup then detected my Apple Silicon GPU, and I completed training and saved the results. This helped me understand that a correct Python version does not guarantee the environment can load its files.
 
-**Moment 2**
-
-- *What I asked for:*
-- *What came back:*
-- *What I changed:*
-
-**Pre-labelling disclosure:**
+**Pre-labelling disclosure:** I labeled the first 20 posts myself before receiving AI suggestions, and kept those original labels. AI pre-labeled the remaining candidates, suggesting 150 labels and 30 exclusions. I accepted the 150 labels and changed two proposed exclusions to `opinion`, leaving 172 labeled posts and 28 exclusions. The CSV notes preserve which labels were AI-assisted and which decisions I changed.
 
 <!-- ═══════════════════════ UNIT 6 — THE TEST ═══════════════════════
 
