@@ -128,48 +128,48 @@ The practice exercise also exposed the boundary between `experience` and `opinio
 
 ## The Dataset
 
-<!-- Where you collected from, how you labelled, your counts, and three hard
-     cases. -->
+**Where the posts came from:** I collected 200 public r/formula1 post candidates through the Arctic Shift archive. The collector searched within January 2020 to January 2023 and kept the title and full available body together. Each row has its source link in the note. I excluded 28 posts that did not fit my scope, such as news transcripts, statistics-only posts, image-based posts and recurring tournament polls. Their text and reasons are kept in [the exclusion log](notes/excluded_posts.csv).
 
-**Where the posts came from:**
+I am using the milestone's time-limit fallback and stopping at **172 labeled posts** rather than collecting replacements to reach 200. The dataset stays in one `labels.csv` file; the notebook will create the train, validation and test splits.
 
-**How I labelled them:** <!-- Cold first? Pre-labelled with AI and corrected?
-Say so plainly — the disclosure is required, not penalised. -->
+**How I labelled them:** I labeled the first 20 posts myself, before receiving AI suggestions. My original labels are saved in [the cold-label record](notes/cold_labels_first20.csv). AI then reviewed the other 180 candidates using my taxonomy and suggested 150 labels and 30 exclusions. I accepted the 150 suggested labels and kept two of the proposed exclusions as `opinion`, leaving 28 exclusions. The notes identify the cold labels, AI pre-labels and my review decisions. 
 
 **Counts per label:**
 
 | Label | Count | Share |
-|---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| **Total** |  | 100% |
+|---|---:|---:|
+| `question` | 89 | 51.7% |
+| `opinion` | 67 | 39.0% |
+| `proposal` | 12 | 7.0% |
+| `experience` | 4 | 2.3% |
+| **Total** | **172** | **100%** |
+
+No label exceeds the milestone's 70% limit. However, this does **not** meet my own criterion that every label should make up 20–40% of the dataset. Questions dominate, and there are only four experiences and twelve proposals. I am keeping that criterion unchanged and recording the imbalance. Performance on the smallest labels will be difficult to measure reliably.
 
 **Three hard cases**
 
-<!-- Any post that made you pause: what it was, which two labels it could have
-     been, and what you chose. These are worth more than the easy 190. -->
+**1. Sprint race idea — original candidate 70**
+> *The post:* [A reader shares a proposed sprint format from a newsletter and asks what people think](https://www.reddit.com/r/formula1/comments/zh6fbe/).
+>
+> *Could have been:* `question` or `proposal`.
+>
+> *I chose:* `question`. The proposal belongs to the quoted newsletter writer. The Reddit author says they are not convinced and asks readers to assess it.
 
-**1.**
-> *The post:*
+**2. Mass damper — original candidate 23**
+> *The post:* [Could Renault's mass damper help with porpoising?](https://www.reddit.com/r/formula1/comments/ztvp2e/)
 >
-> *Could have been:*
+> *Could have been:* `question` or `proposal`.
 >
-> *I chose, because:*
+> *I chose:* `question`. The author thinks dampers could help, but asks whether they would actually work and invites people with more technical knowledge to explain. The idea is still an open request for an answer.
 
-**2.**
-> *The post:*
+**3. First race memory — original candidate 184**
+> *The post:* A fan remembers seeing a race as a child during a family meal, years before they thought they discovered F1. The source link is recorded with original candidate 184 in `labels.csv`.
 >
-> *Could have been:*
+> *Could have been:* `experience` or `question`.
 >
-> *I chose, because:*
+> *I chose:* `experience`. The main body tells a specific personal story. The closing question invites similar stories rather than asking for help or an explanation.
 
-**3.**
-> *The post:*
->
-> *Could have been:*
->
-> *I chose, because:*
+I also kept candidates 122 and 188 as `opinion` after AI suggested excluding them. Those scope decisions and the original suggestions are recorded in [the review notes](notes/prelabel_review.md).
 
 ---
 

@@ -1,0 +1,15 @@
+{
+  "status": "target_reached",
+  "target": 200,
+  "rows_before": 200,
+  "rows_after": 200,
+  "added_this_run": 0,
+  "outcomes_this_run": {},
+  "source": "https://arctic-shift.photon-reddit.com/api/posts/search",
+  "date_range": {
+    "after": "2020-01-01",
+    "before": "2023-01-01"
+  },
+  "error": null,
+  "review_required": "Candidates only: human review must check English language, taxonomy scope, source availability, and label balance. No labels generated."
+}
