@@ -175,19 +175,27 @@ I also kept candidates 122 and 188 as `opinion` after AI suggested excluding the
 
 ## The Training Run
 
-<!-- Your starting model, your settings, and anything you changed and why. -->
+**Base model:** `distilbert-base-uncased`, fine-tuned to classify posts as `question`, `opinion`, `proposal` or `experience`.
 
-**Base model:**
+**Settings:** 3 epochs, learning rate `2e-5`, batch size 16, maximum input length 128 tokens and seed 42. Training ran on my Apple Silicon GPU (`mps`) with PyTorch `2.14.1`. The training progress display showed about 14 seconds for the three epochs.
 
-**Settings:** <!-- epochs, learning rate, batch size, seed -->
+**Anything I changed from the defaults, and why:** I replaced the starter label list with my four labels and kept the training settings unchanged. The notebook initially could not start its kernel because files in the environment under Documents were being offloaded to iCloud. I switched to a fresh Python 3.13 environment outside Documents, using the `TakeMeter Local (Python 3.13)` kernel.
 
-**Anything I changed from the defaults, and why:**
+The CSV keeps the whole posts, but the model only reads the first 128 tokens of each one. Longer posts are truncated during tokenization, so the model may miss information used to assign their labels.
 
-**Split sizes:** <!-- train / val / test, and per-label counts in the test
-split. If a label had fewer than about 8 in test, say so — it explains a lot
-of next unit's variance. -->
+**Split sizes:** The notebook split the 172 posts automatically using seed 42, giving 120 training posts, 26 validation posts and 26 test posts.
 
+| Label | Train | Validation | Test |
+|---|---:|---:|---:|
+| `question` | 62 | 14 | 13 |
+| `opinion` | 47 | 10 | 10 |
+| `proposal` | 8 | 2 | 2 |
+| `experience` | 3 | 0 | 1 |
+| **Total** | **120** | **26** | **26** |
 
+There are only two proposals and one experience in the test set, below the suggested eight examples per label. These scores will be sensitive to individual predictions and may vary a lot across seeds. There are no experiences in validation, so validation cannot show how well the model recognises that label.
+
+**What I observed:** Training completed all three epochs. Validation loss decreased from 1.1305 to 0.9946, but validation accuracy stayed at 53.8%. The final test accuracy was 50% (13 of 26 correct), with macro F1 of 0.167. The saved confusion counts confirm that every test post was predicted as `question`. Its F1 was 0.667, while the other three labels had F1 of 0.000. Finishing training did not mean the model learned to distinguish all four labels. I kept this run and its settings unchanged for the Unit 6 evaluation.
 
 ---
 

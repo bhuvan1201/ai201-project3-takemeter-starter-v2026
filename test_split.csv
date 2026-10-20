@@ -1,0 +1,398 @@
+text,label,note
+"Widespread misunderstanding of 'reverse DRS' due to Motorsport.com's misinterpretation of Brawn's comments
+
+Regarding this article posted a few hours ago: https://www.motorsport.com/f1/news/f1s-active-aero-plans-for-2026-could-include-reverse-drs/10406751/
+
+In the article, Ross Brawn is quoted as saying
+
+> If you have active aerodynamics, then of course you could affect the car in front. You could have a proximity [that] once you get within a certain degree, the car in front loses a little bit of downforce and you gain a little bit of downforce.
+
+Motorsport.com interpreted and reported that comment as applying to race leaders, which suggests a video game-type rubber-banding effect.  I think it's extremely obvious that is NOT what Ross Brawn meant, if you focus on the quotes and ignore the rest of the article.  Brawn is talking about two cars in a fight. Currently, the car in front always has more drag but also more downforce, so they can use subtraction of drag for the car behind to make up for the loss of performance when following. But for 2026 they're talking about adding active aero so that *all* cars can reduce their drag in a manner similar to the way DRS currently works. In that case, the only way to have a DRS-like effect might be to either add some drag to the car in front or reduce its downforce. The idea is not about rubber-banding the entire field, but instead minimizing the penalty for following.  That's the same goal of the current DRS system, and the same goal of the 2022 technical regulations change.  But the addition of active aero might require and/or enable them to use different or more nuanced (e.g. variable based on proximity rather than set track zones with detection points) methods.
+
+tl;dr: It's not about rubber-banding, it's an alternative (edit: *potential* alternative) to DRS for cars that are fighting, wherever they are in the order.",opinion,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=100; source=https://www.reddit.com/r/formula1/comments/z9xu00/; collected_via=arctic_shift; created_utc=1669924530; reason=Argues for the author's interpretation of Brawn's comments and against a media interpretation.
+"Why is Audi considered a good team years before their entry?
+
+Hi,
+I entered F1 and basically motorsport through Drive to survive in February 2022. A lot of you won't like it, but thats it. Eversince Audi came into talks and then buying into Sauber, everyone genuinely thinks that Audi will be at least a midfielder. Why? Like, where comes the confidence from that Audi won't bin this completely?",opinion,human_cold_label; source=https://www.reddit.com/r/formula1/comments/zws33u/; collected_via=arctic_shift; created_utc=1672179736; candidate_number=17
+"Drivers biggest weakness performance wise?
+
+Most of the time when we talk about our favourite drivers it's about their greatest accomplishments, like Seb's 9 wins in a row, Kimi's and Lewis' charge through the field in Japan 05' and Brazil 21', or Michael's  incredible drive in Spain 96'. I hear alot about drivers like Alonso who can extract so much speed from any car, Kimi with his blistering speed or Schumi's ability in the rain, but never really much about their weaknesses. For Kimi I'd say he's not very good at adapting to different cars, and I think I might have heard once that Michael wasn't very good at race starts? What do you think are the weaknesses of modern and older generation drivers like Senna or Prost?",question,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=106; source=https://www.reddit.com/r/formula1/comments/z92mdn/; collected_via=arctic_shift; created_utc=1669840985; reason=Requests readers' assessments of drivers' weaknesses.
+"Just finished rewatching the ‘07 season…..
+
+For the first time since it actually aired, I rewatched almost the entire ‘07 season and I was reminded what a wild ride it was. Particularly, just how close Hamilton was to winning his rookie season. 
+
+Everyone seems to collectively agree that China is where Hamilton blows his championship, but I actually have a different take. Yea, he blows China, but the only reason China blows it for him is because he made the dumbest decision of possibly his racing career a few months earlier. 
+
+The European GP at Germany is one of the most notable races of the season, mostly because it’s batshit crazy. The off and on rain, 6 cars spinning out in the same corner, and most importantly….Hamilton taking dry tires about 5 laps too early. This fucking madlad threw away a solid chance at points after ALL the previous shit, notably spinning out among 5 other cars and getting the crane to dig him out for “safety reasons,” just to be the Guinea pig for dry tires at an absurd point in the race. If he made it to 7th that race he wins the championship his rookie year. 
+
+Tl;dr Hamilton coulda won ‘07 with just a little fuckin common sense at Nurburgring.",opinion,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=96; source=https://www.reddit.com/r/formula1/comments/zb5207/; collected_via=arctic_shift; created_utc=1670033856; reason=Uses a rewatch to argue an alternative cause of Hamilton losing the title; alternative=experience.
+"Some of the best midfield performances this year
+
+I have listed some of the midfield performances this year in my opinion (not in any particular order).
+
+1) Ocon - Japan
+
+2) Norris - Imola
+
+3) Albon - Australia
+
+4) Alonso - Brazil
+
+5) Alonso - USA (COTA)
+
+6) Norris - Singapore
+
+7) KMag - Bahrain
+
+8) Ocon - Austria
+
+9) Alonso - Zandvoort
+
+10) Vettel - Japan
+
+11) Norris - Monaco
+
+12) Ocon - Belgium
+
+13) Schumacher - Austria
+
+14) Gasly - Baku
+
+15) Ricciardo - Mexico
+
+
+Honourable mentions - Ocon and Alonso in Spain, Alonso in France, Norris and Ocon in Abu Dhabi, Bottas in Miami, Vettel in Baku, Alonso in Austria
+
+Any good performances i might have missed?",opinion,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=93; source=https://www.reddit.com/r/formula1/comments/zc4bko/; collected_via=arctic_shift; created_utc=1670142090; reason=Presents the author's selection of best midfield performances; the closing request supplements that selection.
+"Flaws in the F1 Budget Cap
+
+One of the things the budget cap includes is the salaries of all its employees (Top 3 earners and drivers are not included I believe) however this leads to teams underpaying their employees. Formula 1 is the pinnacle of motorsport and requires very intelligent engineers to design, develop and build the cars. In this aspect I strongly believe that the budget cap promotes underpaying employees who should be getting more money. It just promotes paying the drivers and top three earners more and the other employees less. 
+
+This also makes formula 1 lose a lot of innovation in my opinion because good engineers are going to go where they are most appreciated causing the best engineers to quit the sport. Not to mention the fact that they can't spend as much money on developing the car is also a loss of innovation.",opinion,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=180; source=https://www.reddit.com/r/formula1/comments/yzj8xr/; collected_via=arctic_shift; created_utc=1668884321; reason=Argues the budget cap harms employee pay and innovation.
+"F1 Radio Transcript
+
+I know the season is over but looking for next year. I always go watch the races in a pub with friends, and it’s great. But we can never hear the driver radio transmissions. Is there anywhere that does live transcript of the radio calls that we can have up on our phone to know what they say, while still enjoying the pub atmosphere? Thanks!",question,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=153; source=https://www.reddit.com/r/formula1/comments/z0xt8d/; collected_via=arctic_shift; created_utc=1669033792; reason=Requests a live radio-transcript service.
+"Any good doc on the ending of the 2021 season?
+
+Not trying to rehash this or anything, but I’m trying to show some friends the crazy drama. Including the ending and media storm after the end of the last season. I feel like DTS and the YouTube mini docs were really PC about the controversial ending and media twitter storm, prize ceremony etc.
+
+Any good docs that highlight the epic fight, crazy ending and fallout?
+
+Thanks in advance.",question,human_cold_label; source=https://www.reddit.com/r/formula1/comments/1006qgw/; collected_via=arctic_shift; created_utc=1672529999; candidate_number=1
+"Anyone know where I can find porpoising telemetry data?
+
+basically I want to see race data on porpoising and compare it to data from studies done on bobsled and luge racers and how vert g-force and shaking can cause brain damage later in life but I cant find any hard data from F1. I watch American football and it sucks to see guys have to deal with CTE later in their lives and I want to know if we will see the same thing effecting this generation of f1 drivers due to porpoising.",question,human_cold_label; source=https://www.reddit.com/r/formula1/comments/zxpi7t/; collected_via=arctic_shift; created_utc=1672272091; candidate_number=9
+"Alonso v Ocon in 2022 luck correted
+
+Alpine inner team battle in 2022 was interesting but was it really that close? In this post i will try to calculate how many points Alonso and Ocon lost and gained from each others misfortunes. Note that its immposible to be 100% accurate with this and that its a rough estimate.    
+
+
+Alonso ended the season with 81 points compared to Ocon's 92.   
+
+
+Bahrain:  
+Alonso was faster in qualifying and started P8 while Ocon started P11. Eventually Ocon ended up P7 while Alonso ended up P9. Ocon was faster during the race, however Alonso had engine issues whole race and was down on power making him lose tons of pace. If Alonso didnt have any issues he would finish in worst case scenario P8 if Ocon would be faster than him regardless and in best case P5 ahead of Magnussen, Bottas and Ocon.   
+From Bahrain Ocon gained: 0-2 points (due to Alonso's issues)   
+From Bahrain Alonso lost: 2-8 points    
+
+
+Jeddah:  
+This time Ocon started P5 while Alonso started P7. Alonso was faster than Ocon and eventually overtook him. While running P6 towards the end of the race Alonso's car gave up and he was forced to retire. Ocon finished P6 instead.   
+From Jeddah Ocon gained: 2 points (due to Alonso retiring)   
+From Jeddah Alonso lost: 8 points (dnfing from safe 6th position)   
+
+
+Australia:   
+Alonso was flying in qualifying challanging for top positions. However during his fast lap his car had another issue which forced him to start P10. Ocon started P8. In race Ocon started on mediums while Alonso started on hards. Ocon pitted very early on lap 17 while race had 58 laps. On lap 24 Vettel crashed and caused SC. Alonso who at the time doing great in P4, 17 seconds ahead of Ocon lost all his advantage. He wasnt able to pit because he was still on hards and being on mediums for 34 laps wasnt really an option. The race countinued and Alonso on old tyres still had decent pace however on much older tyres he wasnt able to make enough of a gap compared to drivers behind him on much fresher tyres. After his mandatory pitstop he was dropped in massive DRS train in Australia where overtaking is minimal. Ocon in the same race couldnt overtake Albon on much older tyres who didnt have DRS in front of him. Alonso trying to overtake burned out his tyres and had to make another spot. Eventually Alonso finished P17 while Ocon finished P7. If Safety car didnt happen at worst possible time for Alonso he would have finished just behind Ocon in worst case scenario for him considering the pace he had and in best case he would have finished in front of both Mclaren who would be forced to defend from Alonso with fresher tyres towards the end of the race if safety car didnt happen.   
+From Australia Ocon gained: 0-2 points   
+From Australia Alonso lost: 4-10 points 
+
+  
+Imola:   
+Alonso was much faster in qualifying, finishing P5 while Ocon finished P19. However Ocon suffered an issue in Q1 after his first reason which was the reason he got knocked out of Q1. During the sprint Alpine sturggled with a lot of tyre degradation and Alonso dropped to P9 while Ocon only managed P16. During the race Alonso got taken out by Mick while Ocon was unable to overtake and finished P14 If Ocon didnt have any issues in qualifying and Alonso didnt get taken out by Mick their maximum was probably P7 considering both of them werent particulary fast during the weekend due to Alpine having massive tyre deg issues.   
+From Imola sprint Alonso lost: 0 points   
+From Imola sprint Ocon lost: 0-4 points (if he didnt have issues in qualifying, qualified well and was flying during sprint to finish 5th)   
+From Imola Ocon lost: 0-6 points   
+From Imola Alonso lost: 0-6 points   
+
+
+Miami:   
+Alonso qualified P11 while Ocon crashed during practise 3 which prevented him from participating in qualifying. Ocon started on hards because he was starting at the back. Alonso was going towards points but first had a slow pit stop and then had a crash with Gasly which was entirely on him. Ocon meanwhile stayed out whole race on hards but didnt have good pace and got extremly luck with safety car caused by Gasly and Norris which propeled him into the points.If there wasnt SC after his last pitstop he would be P17 with 10-15 laps to go so there would be no points for him if not for the SC. Also after SC Alonso got a penalty which lost him 2 more points but again that was his own mistake for cutting a corner.   
+From Miami Alonso lost: 0 points   
+From Miami Ocon gained 4 points  
+
+
+Spain:   
+Both Alonso and Ocon got knocked out in Q1 and Q2 due to traffic and communication issues with the team. Ocon started P12. Alonso started P20. Ocon finished P7 and Alonso finished P9. However this time Ocon had better pace during the race for the first time in the season excluding Bahrain because of engine issues for Alonso. Despite bad qualifying for both no points were gained or lost for Alonso or Ocon this weekend.   
+From Spain Alonso lost: 0 points   
+From Spain Ocon lost: 0 points   
+
+
+Monaco:   
+Alonso qualified P7 while Ocon qualified P10. Both of them had 1 lap in Q3 each before session was stopped due to multiple crashes. Alonso wouldnt improve his lap because he crashed himself while Ocon could have improved his lap but its impossible to know if he actually would. However during the race Alonso was faster once again and Ocon earned himself a fair penalty because of his defending versus Hamilton. Eventually he ended up outside of points. However if there wasnt a red flag caused by Schumacher Ocon would have finished P9 because he had bigger gap than 5 seconds to Bottas who was behind him.   
+From Monaco Alonso lost: 0 points   
+From Monaco Ocon lost: 2 points  
+
+
+Baku:   
+Alonso qualified P10 while Ocon qualified P13. Ocon got unlucky on his 2nd attempt with yellow flags meaning he wasnt to improve. However Ocon was very slow during the race in comparasion to Alonso and struggled a lot. Even if he started ahead its very unlikely he would have finished higher than P10 because of the gap that was between him and P9. Ocon finished P10 while Alonso finished P7   
+From Baku Alonso lost: 0 points   
+From Baku Ocon lost: 0 points  
+
+
+Canada:    
+Alonso qualified P2 while Ocon qualified P7. In the first half of the race Alonso had amazing pace until engine issue struck. Combined that with awful strategy meant he found himself behind Ocon during the last stint. Out of frustation he earned himself 5 seconds penalty at the end for weaving which meant he finished P9. Ocon finished P6. If there wasnt unfortunate safety cars and engine issues Alonso would have finished P4 in best case scenario and P6 in worst case.    
+From Canada Ocon gained: 2 points (for Alonso finishing behind)   
+From Canada Alonso lost: 6-10 points  
+
+
+Silverstone:   
+Alonso qualified P7 while Ocon qualified P15. Ocon claimed that he had possibly an issue in qualifying but Otmar dissmissed it to my knowlege after the car was checked. Alonso was faster during the race but Ocon was running in 9th when he had his engine issue which lost him 2 points. Alonso finished P5 From Silverstone Alonso lost: 0 points   
+From Silverstone Ocon lost: 2 points  
+
+
+  
+Austria:   
+Ocon qualified P5 while Alonso qualified P8. However Alonso had damaged floor after Q1 after going over some curbs. During the Sprint Alonso's car didnt even start while Ocon finished P6. Alonso started the race last eventually finishing P10 but again he had yet another issue in the race, this time with pitstop. Ocon finished P5.   
+From Austria sprint Ocon gained: 0-1 points (If Alonso started there is chance Alonso would overtake him)   
+From Austria sprint Alonso lost: 0-3 points   
+From Austria race Ocon gained: 0-2 points   
+From Austria race Alonso lost: 8-10 points (10 if he would have finished ahead of Ocon which would be possible if he wasnt forced to start last because of sprint)  
+
+
+France:   
+Alonso qualified P7, Ocon qualified P12. Alonso was faster during the race yet again and finished P6 while Ocon finished P8. No bad or good luck during that race for either drivers   
+From France Ocon lost: 0 points   
+From France Alonso lost: 0 points  
+
+
+Hungary:   
+Ocon qualified P5 while alonso qualified P6. Alonso was faster during the race and finished P8 while Ocon finished P9. Again no bad or good luck for either drivers   
+From Hungary Ocon lost: 0 points   
+From Hungary Alonso lost: 0 points
+
+Spa:   
+Ocon qualified P5 while Alonso was P6. Ocon started P16 while Alonso started P3. Alonso had bad strategy during the race but finished P5 while Ocon finished P7. Alonso and Ocon had similar pace during the race. If Ocon started at the front there is a chance he would have finished ahead of Alonso   
+From Spa Alonso gained: 0-2 points   
+From Spa Ocon lost: 0-4 points  
+
+
+Netherlands:   
+Ocon qualified P12 while Alonso qualified P13 but got blocked during his lap. Alonso was faster during the race and finished P6. Ocon finished P9. Not luck or bad luck for either drivers   
+From Netherlands Alonso lost: 0 points   
+From Netherlands Ocon lost: 0 points  
+
+
+Monza:   
+Alonso qualified P10 while Ocon qualified P11. Alonso was again faster but retired due to car issues. Ocon finished outside the points. If Alonso didnt retire he would finish P7 or P8 as he was in a fight with Lando.   
+From Monza Ocon lost: 0 points   
+From Monza Alonso lost: 4-6 points  
+
+
+Singapore:   
+Alonso qualified P5 while Ocon was P18. However Ocon suffered brake issues. During the race Alonso was faster but both Alonso and Ocon retired to car issues. However Alonso retired from P6 while Ocon retired from P13.    
+From Singapore Ocon lost: 0 points   
+From Singapore Alonso lost: 8 points  
+
+
+Japan: Ocon qualified P5 while Alonso was P7. Ocon finished P4 while Alonso finished P7. Alonso got a bad strategy but that was partly due to him being behind Ocon so its not really bad luck.    
+From Japan Ocon lost: 0 points   
+From Japan Alonso lost: 0 points  
+
+
+Cota:   
+Alonso qualified P9 while Ocon qualified P18. Ocon decided to start from pits while Alonso took ICE penalty which meant he started from P14. Alonso was faster during the race and even had an accident which wasnt his fault despite him finishing P7. P6 was Alonso's though if he didnt have an accident. Ocon finished outside of points   
+From Cota Ocon lost: 0 points   
+From Cota Alonso lost: 2 points  
+
+
+Mexico:   
+Alonso qualified P9 while Ocon was P10. Alonso was faster again during the race and was going to finish P7 but yet another issue with the car caused him to not finish. Ocon finished P8.   
+From Mexico Ocon gained: 2 points (Alonso dnfing)   
+From Mexico Alonso lost: 6 points  
+
+
+Brazil:   
+Ocon qualified P6 while Alonso was P7. During the sprint the colided first in T4 then on the straight. In T4 Ocon pushed Alonso wide and those 2 made contact which damaged Ocon's car and on the straight Alonso damaged his front wing running into Ocon. Imo both of them were responsible for ruining their own sprint so no bad luck was involved here. During the race Alonso was faster. Alonso gained 10 seconds from VSC but he lost them previosly with terrible pit stop that was 10 seconds longer so it nulified later luck. However Alonso got lucky SC brought him close to Perez who had worn out tyres. From Brazil sprint Ocon lost: 0 points   
+From Brazil sprint Alonso lost: 0 points   
+From Brazil Ocon lost: 0 points   
+From Brazil Alonso gained: 2 points  
+
+
+Abu Dhabi:   
+Alonso qualified P11 while Ocon qualified P8. Alonso was just behind Vettel and Ocon during the race. Ocon pitted earlier while Alonso stayed out. Eventually Alonso had car issues yet again but was 7 seconds behind Ocon at the moment of retiring with 7-8 laps fresher tyres so its hard to predict if he would have finished ahead or behind Ocon. In the end Ocon finished P7.   
+From Abu Dhabi Ocon gained: 0-2 points   
+From Abu Dhabi Alonso lost: 4-6 points  
+
+
+Best case for Ocon: he lost 8 points  
+Worst case for Ocon: he gained 15 points  
+Worst case for Alonso: he lost 48 points (edited)  
+Best case for Alonso: he lost 81 points  
+
+
+After taking out luck factors in terms of points this is how Alonso v Ocon would look like:   
+Alonso 129-100 Ocon (worst case for Alonso + best case for Ocon)   
+Alonso 162-77 Ocon (best case for Alonso + worst case for Ocon)   
+Alonso 146-89 Ocon (mid case for Alonso + mid case for Ocon, something around this result is the most probable one)  
+
+
+After taking out luck factors in terms of qualifying this is how Alonso v Ocon would look like:  
+Bahrain: undecided (Ocon used old spec sidepods because newer one failed in FP)   
+Jeddah: Ocon wins   
+Australia: Alonso wins (Alonso had an issue in Q3, Q2  times used therefore)   
+Imola: undecided (Ocon with an issue during whole qualifying)   
+Miami: Alonso wins (Ocon crashed out before it even started)   
+Spain: Ocon wins (Ocon's first attempt in Q1 was faster)   
+Monaco: Alonso wins (First Q3 attempt used in comparasion because session was stopped)   
+Baku: Alonso wins (Yellow flag in the end of Q2 so first attempt counted)   
+Canada: Alonso wins   
+Silverstone: Alonso wins   
+Austria: Ocon wins   
+France: Alonso wins   
+Hungary: Ocon wins   
+Spa: Ocon wins   
+Netherlands: Alonso wins (Alonso blocked in Q2, first attempt used)   
+Italy: Alonso wins   
+Singapore: Alonso wins (Ocon had issues in his 2nd run 1st run in Q1 used)    
+Japan: Ocon wins   
+Cota: Alonso wins   
+Mexico: Alonso wins   
+Brazil: Ocon wins   
+Abu Dhabi: Ocon wins   
+Overall: Alonso 12-8 Ocon    
+After taking out luck factors in terms of races this is how Alonso v Ocon would look like:  
+Bahrain: undecided (Alonso's engine issues)   
+Jeddah: Alonso wins   
+Australia: undecided (too many variables to know who wins this one, read my paragraph above under australia)   
+Imola: undecided (Alonso taken out)   
+Miami: Alonso wins (If there wasnt a SC Alonso would have finished ahead)   
+Spain: Ocon wins   
+Monaco: Alonso wins   
+Baku: Alonso wins   
+Canada: Alonso wins (If Alonso didnt have engine issues + terrible strategy Alonso would finish ahead) Silverstone: Alonso wins   
+Austria: undecided (too many variables to predict)   
+France: Alonso wins   
+Hungary: Alonso wins   
+Spa: undecided (hard to say what would have happened if Alonso didnt have bad strategy and Ocon didnt start at the back)   
+Netherlands: Alonso wins   
+Italy: Alonso wins   
+Singapore: Alonso wins   
+Japan: Ocon wins   
+Cota: Alonso wins   
+Mexico: Alonso wins   
+Brazil: undecided (Alonso was better but Alonso also got better strategy)   
+Abu Dhabi: undecided (Alonso was few seconds behind Ocon but on much fresher tyres, hard to predict who would finish ahead)   
+Overall: Alonso 13-2 Ocon",opinion,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=164; source=https://www.reddit.com/r/formula1/comments/z0ex3q/; collected_via=arctic_shift; created_utc=1668977504; reason=Builds a counterfactual interpretation of luck and argues Alonso performed better than the raw standings show.
+"What do you think each of next year's rookies need to achieve as a bare minimum in order for their season to be considered a success?
+
+We have three rookies coming into F1 next year, with all of them under varying degrees of pressure. Piastri is under the most amount of pressure given his junior record and the contractual shenanigans that occurred over the summer. Whereas a lot people don't seem to rate Sargeant at all, with many thinking that he's nothing more than a marketing tool (due to his nationality) who'll end up getting smoked by Albon. De Vries seems to be somewhere in the middle.
+
+So what do you think each of them needs to do for their season to be considered a success?",question,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=62; source=https://www.reddit.com/r/formula1/comments/zj4hpd/; collected_via=arctic_shift; created_utc=1670785880; reason=Asks readers to define success for the incoming rookies.
+"Should F1 try out DRS-seconds?
+
+With the new regulations the famous question arose once again this season; should F1 stop using DRS. 
+
+Often, regular F1-watchers can predict when an overtake is going to happen. We just know that when a driver get's within one second of the car ahead they will be able to breeze past. 
+
+As a result of DRS, drivers with a speed advantage can complete overtakes often already halfway down the straight. However, completely eliminating DRS might lead to uneventful races. 
+
+What if DRS would become a tool for strategy instead of just a way to make overtaking easier? 
+
+The idea is simple: 
+
+* Every driver get's X seconds of DRS per race. 
+* They can use it whenever they want. Drivers don't have to be within one second of the car ahead to use DRS. 
+* DRS can still only be used when within a DRS-zone. 
+* Drivers can choose themselves for how many seconds they activate DRS while within the DRS-zone. 
+
+I see multiple advantages to this approach:
+
+* **Fairer races:** every driver get's the same amount of seconds. No more disadvantages for defending drivers. 
+* **More spectacular overtakes:** Drivers would want to use a minimum amount of seconds to complete overtakes. Overtakes already completed halfway down the straight would become a rare sight. 
+* **More exciting battles:** drivers can use DRS to defend. Making battles more unpredictable. 
+* **Better strategy:** Drivers would use DRS as a strategic tool to make undercuts, overcuts, or attacks for the fastest lap work. They have to time the use of DRS to get the most optimal result. 
+
+I'm interested to hear what you think? 
+
+This idea is based on comments from u/imbluedabedeedabedaa and u/omegamanXY from [this thread.](https://www.reddit.com/r/formula1/comments/zagfks/f1_should_not_be_afraid_to_limit_ritualistic_drs/iylytwp/)",proposal,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=92; source=https://www.reddit.com/r/formula1/comments/zc7w46/; collected_via=arctic_shift; created_utc=1670154636; reason=Defines a per-race DRS time budget and argues for its advantages.
+"Combustion engine upgrade.
+
+Could formula one become the centre of innovation for combustion engines with the engines being converted to hydrogen?
+
+ Formula E is developing cell technology but what about the combustion engine it's great it makes a nice noise why not keep it and use hydrogen or an alternative to keep formula one with a similar engine setup but a different fuel in line with innovation keeping the sport modern.",proposal,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=87; source=https://www.reddit.com/r/formula1/comments/zdp57h/; collected_via=arctic_shift; created_utc=1670285497; reason=Advocates retaining combustion engines using hydrogen or alternative fuel; alternative=question because feasibility is also raised.
+"F1 Offical History Book - such a deadly past
+
+I started reading my new book Formula 1: The Official History, which I got for Christmas yesterday (It's great btw! [See it here](https://www.amazon.com/Formula-Official-History-Maurice-Hamilton/dp/1802792228/ref=sr_1_1?gclid=CjwKCAiAqaWdBhAvEiwAGAQltna6tDHCzQooB62s9mNh7jGecpYeXz8XyNSL5kJ1Slp47laOKS9WORoCEzsQAvD_BwE&hvadid=477516821928&hvdev=c&hvlocphy=9053059&hvnetw=g&hvqmt=e&hvrand=15366410631971626439&hvtargid=kwd-1000123137027&hydadcr=7437_9611148&keywords=formula+1+the+official+history+book&qid=1672063788&sr=8-1)). Last night, I finished the first chapter on the 1950's, and it really has me thinking. So many of these drivers died racing in this sport. What do you think made them ""different"" in terms of being willing to risk their lives? I can hardly see any of the current or recent drivers being that kind of person. So, what was it about these guys personality-wise? Or was it the time period? Coming right out of WWII in Europe, maybe death was such a fixture in the lives of people at that time, that it wasn't as much of a concern? What do you think?
+
+On a related note, do you think any recent drivers would have competed back in the day when it was so dangerous? And are there any modern equivalents that are just as deadly? Maybe mountain climbing?
+
+BTW, I love this quote by Juan Manuel Fangio: ""You must always strive to be the best, but you must never believe that you are.""",question,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=21; source=https://www.reddit.com/r/formula1/comments/zvo1z2/; collected_via=arctic_shift; created_utc=1672064299; reason=Reading the history book provides context for open questions about drivers accepting risk.
+"""If it looks right, it is right"" - What are some good counterexamples to this old saying in Formula 1?
+
+There's an old saying, ""If it looks right, it is right"", and a related saying in aviation, ""If it looks right, it will fly right"". 
+
+Looking back, we have plenty of gorgeous looking and fast cars such as the McLaren MP4/4, the Ferrari F2004, and the Mercedes W11. 
+
+We've also had plenty of unbearable ugly and slow cars, such as the infamous Caterham CT05, the Lotus E22 (thanks for correcting me, u/CilenEAmber), and the Ensign N179.
+
+What about the inverse of this? What cars can you think of that were either:
+
+Drop-dead gorgeous but total bricks on the track? OR
+
+Uglier than sin but also blisteringly fast?
+
+I look forward to seeing what people come up with!",question,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=69; source=https://www.reddit.com/r/formula1/comments/zhb3z0/; collected_via=arctic_shift; created_utc=1670625671; reason=Requests counterexamples linking car appearance and performance.
+"With the stadium labor issues of Qatar... was their grand prix track similar?
+
+I know Losail is quite an old track and was built in 2004 for motorcycle racing. Given that this is a much older track I'd imagine that the labor issue of brutalizing migrants might be similar? but it's a far less glamorized facility and especially for motogp, which, while big, is still a very niche sport. Only recently has the popularized F1 came to Qatar, so it made me wonder if there are migrant or labor issues with Losail as well?",question,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=128; source=https://www.reddit.com/r/formula1/comments/z46468/; collected_via=arctic_shift; created_utc=1669357735; reason=Requests information about labour conditions during circuit construction.
+"How many race wins in 2022 for Leclerc realistically if not for Ferrari's awful strategies + poor reliability ?
+
+My prediction would actually be 7 wins : Bahrain, Melbourne, Spain, Monaco, Silverstone, Austria and Hungary.
+
+I still think Verstappen would have got Leclerc in Baku... but maybe Canada would have been interesting if not for the grid penalty, since Sainz was close to Verstappen in the end of the race (and Leclerc was driving much better than Sainz at that point of the season in particular).",opinion,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=144; source=https://www.reddit.com/r/formula1/comments/z1cm0k/; collected_via=arctic_shift; created_utc=1669070184; reason=Supplies and explains a counterfactual estimate of Leclerc's wins.
+"Feelings on Zhou
+
+Hearing the news of Mick losing his seat today got me thinking. Why is Zhou not getting the same amount of criticism as Mick. Throughout the year I've heard things like he is one of the best rookies in a long time, he is doing amazing, great driver, barely any criticism at all. Mick has 12 points to his teammates 25. Zhou has 6 points compared to Bottas 49. Bottas scored points in 9 races compared to Zhou who only scored in 3. I know he is a rookie but I think that Alfa Romeo was a very good car in the  first half of the season and to be honest I feel like he had a unremarkable year. If he has a similar season next year do you think he will keep his seat.",opinion,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=189; source=https://www.reddit.com/r/formula1/comments/yybszw/; collected_via=arctic_shift; created_utc=1668748289; reason=Argues Zhou's season was unremarkable and criticism inconsistent; the final question follows that position.
+"Things to do at Spa
+
+Hey there, I just bought tickets for Spa 2023 and am insanely hyped and happy like a little child on christmas. 😄 To everyone who has already been there, what can you do there between events? What‘s some cool activities?
+Also where can I go with a 3 day ticket that has a reserved seat on a stand and can I also watch F2 and F3?
+
+Thanks for all the answers! :-)",question,human_cold_label; source=https://www.reddit.com/r/formula1/comments/zxmvo4/; collected_via=arctic_shift; created_utc=1672265952; candidate_number=10
+"Reversible racetrack?
+
+Maybe I suck at using Google, but why has no one invented a racetrack that can be ran both ways? As long as the safety barriers/runoff areas work no matter how a race is being ran around the circuit, what’s the hold up? This seems like a hilarious idea, just switching the direction every year.
+
+Imagine running COTA or Silverstone the other way.",question,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=112; source=https://www.reddit.com/r/formula1/comments/z83mz9/; collected_via=arctic_shift; created_utc=1669750483; reason=Asks why reversible tracks are not used and what prevents them; alternative=proposal because the author likes the idea.
+"An analysis of Verstappen’s 207 points from team principals’ rating
+
+First of all, here is the points break down for each position:
+
+1st - 25 points; 2nd - 18 points; 3rd - 15 points; 4th - 12 points; 5th - 10 points; 6th - 8 points; 7th - 6 points; 8th - 4 points; 9th - 2 points; 10th - 1 point.
+
+Now 207 is quite a specific number. First off it’s odd, only 3 positions give odd numbers: 1st, 3rd and 10th. Second, it’s not easy to get 20**7**, you need either seven team principals to rate him in 10th (1 point), which is impossible because then you wouldn’t have a sum of over 200, or an odd number of team principals to rate him either 1st or 3rd, so the number adds up to xx5, then someone gives him 4th (12 points), to make it xx7.
+ 
+So we can imagine one team principal gave him 4th (12 points) and another gave him 3rd (15 points), then you’d have the rest eight principals giving him a total of 180 points (207-12-15), which can be easily broke down to 6x25 + 2x15, or six 1st and two 3rd. This would be the most likely scenario: **out of the ten team principals, six rated him first, three rated him third, and one rated him fourth**. I’ll leave it to you for who are the ones giving him third and fourth.",opinion,human_cold_label; source=https://www.reddit.com/r/formula1/comments/zwy9wv/; collected_via=arctic_shift; created_utc=1672195964; candidate_number=16
+"Favourite place to sit at during a Grand Prix?
+
+For tracks that don’t have an obvious first choice with famous sections, where does everyone go?
+
+Is it the start/finish line, the first turn, a chicane, etc. On the main straights you can see the pre-race set ups and the podium celebrations but you have to twist your neck quickly when they go by.",question,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=46; source=https://www.reddit.com/r/formula1/comments/zngjn5/; collected_via=arctic_shift; created_utc=1671202621; reason=Asks readers about preferred viewing locations at circuits.
+"Why do drivers often say the safety car is too slow?
+
+I often hear drivers complain about how slow the safety car is going, which is immediately followed by commentators explaining that Bernd Maylander is going as fast as he can. Are the drivers just being impatient or do they know that the safety car could go faster while safely backing up the pack? Is their criticism fair?",question,human_cold_label; source=https://www.reddit.com/r/formula1/comments/zxjykl/; collected_via=arctic_shift; created_utc=1672259154; candidate_number=12
+"My mates brothers both met an f1 driver, two days apart , on complete chance.
+
+We live in the north east of England, we rarely ever see celebrities/ public figures. His oldest brother was in kfc in York and saw Alex Albon sat with his family! He asked for a photo and got one with him outside. Me and my friend were sad we didn’t catch him, next day , latifi shows up to a bacon factory literally 4 miles from my home. Apparently his dad owns the company and he was just visiting. My friends youngest brother works there and saw him but didn’t manage to get a photo with him. Two formula 1 drivers within 15 miles of me and my friend, and didn’t find out till it was too late. Crazy coincidence that both his brothers met one each too!",experience,"ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=75; source=https://www.reddit.com/r/formula1/comments/zgecpe/; collected_via=arctic_shift; created_utc=1670539267; reason=Tells a personal near-miss story around acquaintances meeting drivers; review_required: the actual meetings are second-hand, so check the personal-event scope."
+"I always wanted to get into F1, but for some reason I struggle immersing myself in it all. Any advice?
+
+I have watched a few F1 races live and on tv. Here are some of my main reservations that I think prevent me from fully enjoying the sport. I'm hoping someone could lend me their perspectives on these:
+
+1. For those that don't support Red Bull/Mercedes/Ferrari, it seems that (at least in recent years) your team doesn't come close to winning the championship. What fun is watching then? I remember getting tired of the NBA's warriors-cavaliers monopoly, but at least it wasn't as prolonged as team-monopolies tend to be in F1. How are you excited about a new season when the championship is only being fought between 2 teams on a grid of 10?
+2. I think the main reason I don't fully enjoy it is cuz i'm not immersed in the technical/physics side. Most tend to be drawn to that aspect more than the actual racing. Any advice on how you guys learned more about that side? At the moment, the races for me are just cars trying to overtake one another but ik there's a lot more underlying complexity than that.
+3. How did you decide which team/driver to support? And do you support a team (+ its associated drivers) *or* a driver (+ its associated team)? And do you *really* feel attached to that team (since these aren't national or municipal alignments)?",question,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=115; source=https://www.reddit.com/r/formula1/comments/z81sgg/; collected_via=arctic_shift; created_utc=1669746373; reason=Describes barriers to enjoying F1 and asks for advice.
+"What's a strange move in the driver's market that you'd love to see in the next few seasons?
+
+Personally, as a massive Valtteri fan, I'd love to see him get a shot at the Ferrari seat when his Alfa contract expires! Right now he's doing quite well with the Ferrari engine and as we all know he's a good second driver... Obviously only If Carlos doesn't perform well enough.
+(I know this Is pretty much impossible but hey a man can dream right?)",opinion,ai_prelabel; human_reviewed; user_accepted_ai_label; candidate_number=113; source=https://www.reddit.com/r/formula1/comments/z82cuh/; collected_via=arctic_shift; created_utc=1669747611; reason=Explains the author's desired Bottas-to-Ferrari move; alternative=question because the title requests readers' choices.
